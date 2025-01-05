@@ -1,1 +1,1 @@
-# Main-Frame-Data-Management-System
+Inventory Management System using Java Swing Class and MySQL Database.
